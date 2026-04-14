@@ -38,7 +38,7 @@ Please kindly cite our reports if they are helpful for your research.
 @article{Chen2026NExt,
   title={Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration},
   author={Chen, Zhipeng and Qian, Tao and Zhao, Wayne Xin and Wen, Ji-Rong},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2604.11446},
   year={2026}
 }
 ```
